@@ -5,7 +5,7 @@
 
 <body>
 
-<div style="align-items:center">
+<div style="margin:0 auto">
 
 
 <form action="" mehtod="post">
